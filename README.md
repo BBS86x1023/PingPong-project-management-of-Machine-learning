@@ -15,8 +15,8 @@ game_over_score ：指定遊戲結束的分數，當任一方達到此分數，�
 
 手動執行乒乓球指令：
 * python MLGame.py -m pingpong
-機器學習模式中的手動模式執行乒乓球指令：
 
+機器學習模式中的手動模式執行乒乓球指令：
 * python MLGame.py pingpong -i ml_play_template.py ml_play_manual.py
 * ml_play_template.py 是機器學習的檔案
 * ml_play_manual.py 是手動模式的檔案
