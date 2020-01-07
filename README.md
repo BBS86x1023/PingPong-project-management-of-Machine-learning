@@ -1,7 +1,10 @@
 # PingPong Project Machine-learning
 
 # Requirements
-
+* above Memory 4G
+* above Windows 7 operating system
+* python 3.7
+* Anaconda 1.9.7
 # Usage
 
 # Machine Learning Mode
