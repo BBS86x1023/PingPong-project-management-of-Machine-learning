@@ -14,6 +14,9 @@
 手動執行乒乓球指令：
 * python MLGame.py -m pingpong
 
+機器學習執行乒乓球指令：
+* python MLGame.py pingpong -i ml_play_mlp_1P_0552030_V5.py ml_play_mlp_2P_0552030_V5.py
+
 機器學習模式中的手動模式執行乒乓球指令：
 * python MLGame.py pingpong -i ml_play_template.py ml_play_manual.py
 * ml_play_template.py 是機器學習的檔案
