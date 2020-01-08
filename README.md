@@ -1,4 +1,4 @@
-# PingPong Project Machine-learning
+# PingPong Project Machine-learning course
 
 # Requirements
 * above Memory 4G
