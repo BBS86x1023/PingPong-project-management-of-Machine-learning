@@ -5,6 +5,11 @@
 * above Windows 7 operating system
 * python 3.7
 * Anaconda 1.9.7
+# 內部資料
+* 訓練程式 ->  Machine learning code/ml_mlp_train_file_total_0552030_V5.py
+* 1P玩家打乒乓程式 -> Machine learning code/1P/predict_1P_main/ml_play_mlp_1P_0552030_V5.py
+* 2P玩家打乒乓程式 -> Machine learning code/2P/predict_2P_main/ml_play_mlp_2P_0552030_V5.py
+* 專案設計報告書 -> Report/乒乓球專案管理-林言珀.pptx
 # Usage
 終端機執行遊戲：
 * python MLGame.py [options] pingpong [game_over_score]
